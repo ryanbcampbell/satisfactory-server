@@ -1,6 +1,6 @@
 services:
   satisfactory-server:
-    image: didstopia/satisfactory-server:latest
+    image: ryanbcampbell/satisfactory-server:latest
     build:
       context: .
       dockerfile: Dockerfile
